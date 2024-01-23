@@ -1,0 +1,42 @@
+C:\Users\loren\source\repos\ex\finca\bin\Debug\netcoreapp3.1\finca.exe
+C:\Users\loren\source\repos\ex\finca\bin\Debug\netcoreapp3.1\finca.deps.json
+C:\Users\loren\source\repos\ex\finca\bin\Debug\netcoreapp3.1\finca.runtimeconfig.json
+C:\Users\loren\source\repos\ex\finca\bin\Debug\netcoreapp3.1\finca.runtimeconfig.dev.json
+C:\Users\loren\source\repos\ex\finca\bin\Debug\netcoreapp3.1\finca.dll
+C:\Users\loren\source\repos\ex\finca\bin\Debug\netcoreapp3.1\finca.pdb
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.AssemblyInfo.cs
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.dll
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.pdb
+C:\Users\loren\source\repos\ex\finca\obj\Debug\netcoreapp3.1\finca.genruntimeconfig.cache
+C:\Users\alumno\Desktop\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.exe
+C:\Users\alumno\Desktop\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.deps.json
+C:\Users\alumno\Desktop\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.runtimeconfig.json
+C:\Users\alumno\Desktop\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.dll
+C:\Users\alumno\Desktop\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.pdb
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.AssemblyInfo.cs
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.dll
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.pdb
+C:\Users\alumno\Desktop\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.exe
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.deps.json
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.runtimeconfig.json
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.dll
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\bin\Debug\netcoreapp3.1\finca.pdb
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.dll
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.pdb
+C:\Users\Usuario\Desktop\entornos\ex entornos\finca\obj\Debug\netcoreapp3.1\finca.genruntimeconfig.cache

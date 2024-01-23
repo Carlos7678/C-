@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Examen entornos\ICM\bin\Debug\ICM.exe.config
+C:\Users\Usuario\source\repos\Examen entornos\ICM\bin\Debug\ICM.exe
+C:\Users\Usuario\source\repos\Examen entornos\ICM\bin\Debug\ICM.pdb
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\ICM.Form1.resources
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\ICM.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\ICM.exe
+C:\Users\Usuario\source\repos\Examen entornos\ICM\obj\Debug\ICM.pdb

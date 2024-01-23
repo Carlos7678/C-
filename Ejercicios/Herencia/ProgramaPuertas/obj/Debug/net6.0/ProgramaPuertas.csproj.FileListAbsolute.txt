@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\bin\Debug\net6.0\ProgramaPuertas.exe
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\bin\Debug\net6.0\ProgramaPuertas.deps.json
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\bin\Debug\net6.0\ProgramaPuertas.runtimeconfig.json
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\bin\Debug\net6.0\ProgramaPuertas.dll
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\bin\Debug\net6.0\ProgramaPuertas.pdb
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.dll
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\refint\ProgramaPuertas.dll
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.pdb
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ProgramaPuertas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Herencia\ProgramaPuertas\obj\Debug\net6.0\ref\ProgramaPuertas.dll

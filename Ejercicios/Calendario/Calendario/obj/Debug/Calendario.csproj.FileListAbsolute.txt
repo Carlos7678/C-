@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Calendario\Calendario\bin\Debug\Calendario.exe.config
+C:\Users\Usuario\source\repos\Calendario\Calendario\bin\Debug\Calendario.exe
+C:\Users\Usuario\source\repos\Calendario\Calendario\bin\Debug\Calendario.pdb
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.Form1.resources
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.exe
+C:\Users\Usuario\source\repos\Calendario\Calendario\obj\Debug\Calendario.pdb

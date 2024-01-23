@@ -1,0 +1,30 @@
+C:\Users\loren\source\repos\ex\Viaje\bin\Debug\Viaje.exe.config
+C:\Users\loren\source\repos\ex\Viaje\bin\Debug\Viaje.exe
+C:\Users\loren\source\repos\ex\Viaje\bin\Debug\Viaje.pdb
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.Form1.resources
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.Properties.Resources.resources
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.csproj.GenerateResource.cache
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.exe
+C:\Users\loren\source\repos\ex\Viaje\obj\Debug\Viaje.pdb
+C:\Users\alumno\Desktop\ex entornos\Viaje\bin\Debug\Viaje.exe.config
+C:\Users\alumno\Desktop\ex entornos\Viaje\bin\Debug\Viaje.exe
+C:\Users\alumno\Desktop\ex entornos\Viaje\bin\Debug\Viaje.pdb
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.Form1.resources
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.Properties.Resources.resources
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.exe
+C:\Users\alumno\Desktop\ex entornos\Viaje\obj\Debug\Viaje.pdb
+E:\PASAR\entornos\ex entornos\Viaje\bin\Debug\Viaje.exe.config
+E:\PASAR\entornos\ex entornos\Viaje\bin\Debug\Viaje.exe
+E:\PASAR\entornos\ex entornos\Viaje\bin\Debug\Viaje.pdb
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.csproj.AssemblyReference.cache
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.Form1.resources
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.Properties.Resources.resources
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.csproj.GenerateResource.cache
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.csproj.CoreCompileInputs.cache
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.exe
+E:\PASAR\entornos\ex entornos\Viaje\obj\Debug\Viaje.pdb

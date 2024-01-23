@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\bin\Debug\Vectores.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\bin\Debug\Vectores.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.Form1.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp1\Vectores\obj\Debug\Vectores.pdb

@@ -1,0 +1,42 @@
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.exe
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.deps.json
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.runtimeconfig.json
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.runtimeconfig.dev.json
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.dll
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.pdb
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.csproj.AssemblyReference.cache
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.AssemblyInfoInputs.cache
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.AssemblyInfo.cs
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.csproj.CoreCompileInputs.cache
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.dll
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.pdb
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.exe
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.deps.json
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.runtimeconfig.json
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.runtimeconfig.dev.json
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.dll
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.pdb
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.dll
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.pdb
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.deps.json
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.runtimeconfig.json
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\bin\Debug\netcoreapp3.1\Coche.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\Coche\obj\Debug\netcoreapp3.1\Coche.genruntimeconfig.cache

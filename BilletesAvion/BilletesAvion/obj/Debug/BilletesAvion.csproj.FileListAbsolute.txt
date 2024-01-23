@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.Form1.resources
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\bin\Debug\BilletesAvion.exe.config
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\bin\Debug\BilletesAvion.exe
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\bin\Debug\BilletesAvion.pdb
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.exe
+C:\Users\Usuario\source\repos\BilletesAvion\BilletesAvion\obj\Debug\BilletesAvion.pdb

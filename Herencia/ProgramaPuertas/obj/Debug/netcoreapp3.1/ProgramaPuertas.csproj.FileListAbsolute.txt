@@ -1,0 +1,42 @@
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.exe
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.deps.json
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.runtimeconfig.json
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.runtimeconfig.dev.json
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.dll
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.pdb
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.csproj.AssemblyReference.cache
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.AssemblyInfoInputs.cache
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.AssemblyInfo.cs
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.csproj.CoreCompileInputs.cache
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.dll
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.pdb
+C:\Users\windows10\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.exe
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.deps.json
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.runtimeconfig.json
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.runtimeconfig.dev.json
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.dll
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.pdb
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.csproj.AssemblyReference.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.dll
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.pdb
+C:\Users\emili\OneDrive\Entornos de Desarrollo\Visual Studio\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.deps.json
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.runtimeconfig.json
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\bin\Debug\netcoreapp3.1\ProgramaPuertas.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (4)\Herencia\Herencia\ProgramaPuertas\obj\Debug\netcoreapp3.1\ProgramaPuertas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\bin\Debug\net6.0\Fincas.cs.exe
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\bin\Debug\net6.0\Fincas.cs.deps.json
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\bin\Debug\net6.0\Fincas.cs.runtimeconfig.json
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\bin\Debug\net6.0\Fincas.cs.dll
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\bin\Debug\net6.0\Fincas.cs.pdb
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.dll
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\refint\Fincas.cs.dll
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.pdb
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\Fincas.cs.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Fincas.cs\Fincas.cs\obj\Debug\net6.0\ref\Fincas.cs.dll

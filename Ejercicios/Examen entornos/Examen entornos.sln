@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examen entornos", "Examen entornos\Examen entornos.csproj", "{A7CE5058-A330-4DB8-A19E-0AD9CC6FD4AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC", "ICM\IMC.csproj", "{8CAF97A5-0205-43D4-BB22-3B6CC705799A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{4D33E8F3-6520-4674-BFDF-7F9CB523A6C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CE5058-A330-4DB8-A19E-0AD9CC6FD4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CE5058-A330-4DB8-A19E-0AD9CC6FD4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CE5058-A330-4DB8-A19E-0AD9CC6FD4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CE5058-A330-4DB8-A19E-0AD9CC6FD4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAF97A5-0205-43D4-BB22-3B6CC705799A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAF97A5-0205-43D4-BB22-3B6CC705799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAF97A5-0205-43D4-BB22-3B6CC705799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAF97A5-0205-43D4-BB22-3B6CC705799A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D33E8F3-6520-4674-BFDF-7F9CB523A6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D33E8F3-6520-4674-BFDF-7F9CB523A6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D33E8F3-6520-4674-BFDF-7F9CB523A6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D33E8F3-6520-4674-BFDF-7F9CB523A6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {919AB5DA-55B8-4B29-908A-34986F50A4E4}
+	EndGlobalSection
+EndGlobal
